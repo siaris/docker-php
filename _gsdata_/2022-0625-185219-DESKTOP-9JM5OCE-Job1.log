@@ -1,0 +1,15 @@
+2022-06-25 18:52:23: -- Analysis Started by User Command
+2022-06-25 18:52:23: L: State file does not exist: C:/xampp/htdocs/dock/_gsdata_/_file_state_v4._gs
+2022-06-25 18:52:23: R: State file does not exist: F:/stuff/htdocs/dock/_gsdata_/_file_state_v4._gs
+2022-06-25 18:52:23: /docker-compose.yml: Conflict: New files that differ
+2022-06-25 18:52:23: /nginx/default.conf: Conflict: New files that differ
+2022-06-25 18:52:23: /www/html/.git/FETCH_HEAD: Conflict: New files that differ
+2022-06-25 18:52:23: /www/html/.gitignore: Conflict: New files that differ
+2022-06-25 18:52:23: /www/html/application/config/config.php: Conflict: New files that differ
+2022-06-25 18:52:23: /www/html/application/config/database.php: Conflict: New files that differ
+2022-06-25 18:52:23: /www/html/main.php: Conflict: New files that differ
+2022-06-25 18:52:23: Do Not Propagate Deletions in 2-way job is not allowed and therefore ignored, as Deletions are always propagated in 2-way jobs
+2022-06-25 18:52:23: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2022-06-25 18:52:23: Changes: 1.551, Conflicts: 7, CopyTime: 0, FixState: 489, Errors: 0, All: 2041
+2022-06-25 18:52:23: Left to Right: Copy File: 1544 
+2022-06-25 18:52:23: -- Analysis Complete. Time 00:00:04, Speed: 510 files/s
